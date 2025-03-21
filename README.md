@@ -14,4 +14,3 @@ Bu proje, LM2587 DC-DC boost konvertör entegresi kullanılarak tasarlanmış bi
 
 ### 📄 Datasheet  
 ![Datasheet](https://raw.githubusercontent.com/sametakinn/lm2587-boost-converter/raw/main/datasheet.PNG)
-
